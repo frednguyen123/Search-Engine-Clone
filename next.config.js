@@ -8,6 +8,6 @@
 
 module.exports = {
   images: {
-    domains: ["www.google.com"],
+    domains: ["static.wikia.nocookie.net"],
   },
 };
